@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.forixaim.ef_ce.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ef_ce.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
