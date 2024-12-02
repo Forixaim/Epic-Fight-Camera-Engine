@@ -18,6 +18,8 @@ public final class CameraRegistry
 		return new CameraRegistry(MOD_ID);
 	}
 
+
+
 	/**
 	 * Creates a new Camera Animation from a set JSON file.
 	 * @param location The Location where should Minecraft Search for. Your JSON files should be in the animmodels/camera folder
